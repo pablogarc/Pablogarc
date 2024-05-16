@@ -10,7 +10,7 @@
 
 ## My Skill Set
 
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" style="display: flex; justify-content: space-around;">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
     </a>
@@ -95,10 +95,8 @@
 
 ## Github Stats 
 
-<a href="http://www.github.com/Pablogarc" align="right">
+<div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Pablogarc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pablogarc's GitHub stats" />
-</a>
-
-<a href="https://github.com/Pablogarc" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogarc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+</div>
+
