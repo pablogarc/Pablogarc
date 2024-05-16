@@ -94,9 +94,6 @@
 <br/>  
 
 ## Github Stats 
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pablogarc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pablogarc's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogarc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Pablogarc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pablogarc's GitHub stats" />
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogarc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
